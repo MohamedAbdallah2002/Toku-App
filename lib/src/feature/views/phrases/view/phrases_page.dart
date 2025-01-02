@@ -1,6 +1,6 @@
-import 'package:app1/feature/views/phrases/model/phrases_model.dart';
+import 'package:app1/src/feature/views/phrases/model/phrases_model.dart';
 import 'package:app1/src/core/style/my_app_bar.dart';
-import 'package:app1/feature/views/phrases/widget/phrases_item.dart';
+import 'package:app1/src/feature/views/phrases/widget/phrases_item.dart';
 import 'package:flutter/material.dart';
 
 class PhrasesPage extends StatelessWidget {

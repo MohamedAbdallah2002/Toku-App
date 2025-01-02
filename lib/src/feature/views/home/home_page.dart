@@ -1,7 +1,7 @@
-import 'package:app1/feature/views/colors/colors_page.dart';
-import 'package:app1/feature/views/family_members/family_members_page.dart';
-import 'package:app1/feature/views/numbers/numbers_page.dart';
-import 'package:app1/feature/views/phrases/view/phrases_page.dart';
+import 'package:app1/src/feature/views/colors/colors_page.dart';
+import 'package:app1/src/feature/views/family_members/family_members_page.dart';
+import 'package:app1/src/feature/views/numbers/numbers_page.dart';
+import 'package:app1/src/feature/views/phrases/view/phrases_page.dart';
 import 'package:app1/src/core/widget/category_app.dart';
 import 'package:app1/src/core/style/my_app_bar.dart';
 import 'package:flutter/material.dart';
